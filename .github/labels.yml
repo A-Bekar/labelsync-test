@@ -1,0 +1,10 @@
+extends: ["JaronZ/labelsync-test:.github/labels-global.yml", "JaronZ/labelsync-test:.github/labels-test.yml"]
+labels:
+  - name: testing
+    description: "Leak-proof bottles for travel-sized toiletries."
+    color: ab4ccc
+  - name: chore
+    color: 87f775
+  - name: enhancement
+    description: "Fun and colorful gardening tools designed for children."
+    color: 08ad46

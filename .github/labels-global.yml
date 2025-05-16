@@ -1,0 +1,5 @@
+extends: "JaronZ/labelsync-test:.github/labels-util.yml"
+labels:
+  - name: chore
+    description: "Collapsible travel bowl for pets on the go."
+    color: 98e2ac

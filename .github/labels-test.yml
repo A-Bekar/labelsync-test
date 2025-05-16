@@ -1,0 +1,12 @@
+labels:
+  - name: bugfix
+    description: "Crunchy granola full of peanut butter flavor and oats."
+    color: 946b35
+  - name: testing
+    description: "Crunchy chips made from blue corn, perfect for dipping."
+    color: "9e4011"
+  - name: bugfix
+    description: "Convenient and low-carb alternative to traditional rice."
+    color: 29c812
+  - name: chore
+    color: 10ba26
