@@ -1,3 +1,6 @@
 labels:
   - name: performance
     color: 66fd71
+  - name: enhancement
+    description: "Fun"
+    color: 08ad46

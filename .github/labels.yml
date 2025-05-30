@@ -6,8 +6,11 @@ labels:
   - name: chore
     color: 87f775
   - name: enhancement
-    description: "Fun and colorful gardening tools designed for children."
+    description: "Fun"
     color: 08ad46
   - name: chore
     description: "Collapsible travel bowl for pets on the go."
     color: 98e2ac
+  - name: enhancement
+    description: "Fun"
+    color: 08ad46

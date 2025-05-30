@@ -3,3 +3,9 @@ labels:
   - name: chore
     description: " travts on the go."
     color: 98e2ac
+  - name: enhancement
+    description: "Fun"
+    color: 08ad46
+  - name: enhancement
+    description: "Fun"
+    color: 08ad46
