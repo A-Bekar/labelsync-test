@@ -4,10 +4,10 @@ labels:
     color: 946b35
   - name: testing
     description: "Crunchy corn, perfect for dipping."
-    color: "#9e41"
+    color: "ff9e41"
   - name: bugfix
     description: "Convenient and low-carb alternative to traditional rice."
-    color: #29c812
+    color: 29c812
   - name: chore
     color: 10ba26
   - name: chore
