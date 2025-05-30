@@ -3,7 +3,7 @@ labels:
     description: "Crunchy granola full of peanut butter flavor and oats."
     color: 946b35
   - name: testing
-    description: "Crunchy corn, perfect for dipping.""
+    description: "Crunchy corn, perfect for dipping."
     color: "#9e41"
   - name: bugfix
     description: "Convenient and low-carb alternative to traditional rice."
