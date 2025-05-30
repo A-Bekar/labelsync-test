@@ -1,4 +1,4 @@
-extends: ["JaronZ/labelsync-test:.github/labels-global.yml", "JaronZ/labelsync-test:.github/labels-test.yml"]
+extends: ["A-Bekar/labelsync-test:.github/labels-global.yml", "A-Bekar/labelsync-test:.github/labels-test.yml"]
 labels:
   - name: testing
     description: "Leak-proof bottles for travel-sized toiletries."
